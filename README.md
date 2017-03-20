@@ -1,2 +1,2 @@
-# blog-article
-个人博客的文章仓库
+# blog
+个人博客
